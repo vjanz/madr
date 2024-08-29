@@ -1,7 +1,7 @@
 ---
 parent: Decisions
 nav_order: 3
-status: on hold
+status: rejected
 ---
 # Write Own MADR Tooling
 
